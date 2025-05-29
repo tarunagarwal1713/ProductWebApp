@@ -1,4 +1,4 @@
-#Java ProductManagementSystem WebApp
+# Java ProductManagementSystem WebApp
 
 Create_products_tables inside your MySQL Database :-
 -- SQL script to create Products table for Product Management System
